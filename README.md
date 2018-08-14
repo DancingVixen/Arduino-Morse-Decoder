@@ -1,2 +1,4 @@
 # Arduino-Morse-Decoder
-Decodes morse code inputted via push button into plaintext
+
+Upload the code then open serial monitor. You can now use the opush button to send your morse code. The code is set to 
+8 words per minute but this can easily be modified. There will be a picture of the schematic incase you can't figure out how to wire it.
